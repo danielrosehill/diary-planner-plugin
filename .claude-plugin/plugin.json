@@ -1,0 +1,36 @@
+{
+  "name": "diary-planner",
+  "description": "A workflow planning and time management template with agent definitions and slash commands for managing daily, weekly, and monthly schedules while maintaining connections between immediate tasks and longer-term objectives.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/diary-planner-plugin"
+  },
+  "commands": [
+    "./commands/daily-plan.md",
+    "./commands/monthly-plan.md",
+    "./commands/review-goals.md",
+    "./commands/review-week.md",
+    "./commands/set-goals.md",
+    "./commands/setup-workspace.md",
+    "./commands/suggest-improvements.md",
+    "./commands/triage-tasks.md",
+    "./commands/update-context.md",
+    "./commands/weekly-plan.md"
+  ],
+  "agents": [
+    "./agents/goal-architect.md",
+    "./agents/time-triage-specialist.md",
+    "./agents/workflow-planner.md"
+  ],
+  "keywords": [
+    "misc",
+    "diary-planner"
+  ]
+}

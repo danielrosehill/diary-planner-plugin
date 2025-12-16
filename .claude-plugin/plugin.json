@@ -8,10 +8,7 @@
     "url": "https://danielrosehill.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielrosehill/diary-planner-plugin"
-  },
+  "repository": "https://github.com/danielrosehill/diary-planner-plugin",
   "commands": [
     "./commands/daily-plan.md",
     "./commands/monthly-plan.md",

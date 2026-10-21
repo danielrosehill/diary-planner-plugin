@@ -19,7 +19,7 @@ To install this plugin:
 ---
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-8A2BE2?logo=anthropic)](https://github.com/anthropics/claude-code)
 [![Claude Code Projects](https://img.shields.io/badge/My%20Claude%20Code-Projects-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
-[![Master Index](https://img.shields.io/badge/Master-Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/Master-Index-green?logo=github)](https://github.com/danielrosehill/Start-Here)
 
 A structured repository template for implementing workflow planning and time management using Claude Code CLI.
 
